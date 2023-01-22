@@ -9,4 +9,5 @@ Input dataset with 88 Rumi poems translated by Nader Khalili was donwloaded from
 - [Step 2 - Deploy TensorFlow Serving to Azure Kubernetes Services](https://github.com/LazaUK/MachineLearning-RumiStylePoetry#step-2)
 - [Step 3 - Build interactive "Rumi" Bot](https://github.com/LazaUK/MachineLearning-RumiStylePoetry#step-3)
 
+## Step 1 - Train RNN Model
 .. TBC
