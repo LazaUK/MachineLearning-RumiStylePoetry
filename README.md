@@ -1,3 +1,3 @@
 # Auto-generating poetry in Rumi-style
 
-Jalaluddin Muhammad Rumī is a 13th-century Persion poet, scholar and Sufi mystic. Here I train RNN (Recurrent Neural Network) model on some of Rumi poems to apply then the learnt style to produce then new "poetry" text.
+Jalaluddin Muhammad Rumī is a 13th-century Persian poet, scholar and Sufi mystic. Here I train RNN (Recurrent Neural Network) model on some of Rumi's poems to apply then the learnt style to produce new "poetry" text.
